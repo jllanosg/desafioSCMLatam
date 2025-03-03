@@ -9,7 +9,7 @@
 - Se supuso que el acceso "usando
   autenticación con un proveedor de identidad externo" es manejado fuera del sistema, por lo que no fue considerado dentro del diagrama.
 
-- Al procesar los archivos y guardarlos en el bucket, es el mismo sistema el cual los entrega a los clientes (mediante SFTP), por lo que el bucket tampoco es accesible desde internet.
+- Al procesar los archivos y guardar el resultado en el bucket, es el mismo sistema el cual los entrega a los clientes (mediante SFTP u otra forma), por lo que el bucket tampoco es accesible desde internet.
 
 ## Preguntas
 
